@@ -10,14 +10,14 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Testing Changes
+    url: '#skills'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Hey You Projetcs
+    url: '#projects'
     weight: 50
   - name: Courses
     url: courses/
