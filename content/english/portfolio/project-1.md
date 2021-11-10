@@ -33,18 +33,17 @@ the productive activities that lead to the successful execution of objectives.
 #### Primary Purpose
 
 The primary purpose of this report is to:
-1. ProvideanindependentstudyofProdoscore’sProductivityIndicator
-2. EstablishProdoscoreasavalidindicatorofknowledgeworkerproductivity
-3. Exploreinsightsfromthevariouscomponentscapturedwithinanemployee’s
-Prodoscore
+1. Provide an independent study of Prodoscore’s Productivity Indicator
+2. Establish Prodoscore as a valid indicator of knowledge worker productivity
+3. Explore insights from the various components captured within an employee’s Prodoscore
 
 #### Secondary Purpose
 
 The secondary purpose of this report is to:
-1. Learnhowemployeesvarybyproductivityacrossmultipleorganizationsand gain high level insights into employee productivity
-2. Modelobservableemployeebehavioralpatternstolearnwaystousedatato effectively manage a workforce
-3. Generategeneralizabledata-driveninsightsthatprovideactionableinsights and approaches towards enhancing talent management
+1. Learn how employees vary by productivity across multiple organizations and gain high level insights into employee productivity
+2. Model observable employee behavioral patterns to learn ways to use data to effectively manage a workforce
+3. Generate generalizable data-driven insights that provide actionable insights and approaches towards enhancing talent management
 Findings
-1. Prodoscoreisavalidindicatorofknowledgeworkerproductivityasitreliably measures worker activities deemed productive over time. The multivariate model employed by Prododcore offers meaningful information surrounding the behavioral proclivities of employees as they interact with technology.
-2. Threediscreteemployeeproductivitygroups(high,average,andlow productivity) emerged from the data offering group-based insights on employee productivity across knowledge workers.
-3. Prodoscorecanprovideseveralapplicableusecasesrangingfromcalculating ROI, forecasting future productivity, and data-driven workforce segmentation planning.
+1. Prodoscore is a valid indicator of knowledge worker productivity as it reliably measures worker activities deemed productive over time. The multivariate model employed by Prododcore offers meaningful information surrounding the behavioral proclivities of employees as they interact with technology.
+2. Three discrete employee productivity groups (high, average, and low productivity) emerged from the data offering group-based insights on employee productivity across knowledge workers.
+3. Prodoscore can provide several applicable use cases ranging from calculating ROI, forecasting future productivity, and data-driven workforce segmentation planning.
