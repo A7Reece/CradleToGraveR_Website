@@ -2,24 +2,24 @@
 categories:
 - design
 - development
-date: "2020-05-12T12:14:34+06:00"
+date: "2021-09-01T12:14:34+06:00"
 description: This is meta description.
 draft: false
-image: images/portfolio/item1.jpg
+image: images/portfolio/Final Tech Report.png
 project_info:
-- content: John Doe
+- content: Adrian Reece
   icon: fas fa-user
-  name: Client
-- content: https://examplesite.com/
-  icon: fas fa-link
-  name: Project Link
-- content: Add whatever you want
+  name: Researcher
+- content: Prodoscore
   icon: fas fa-globe
-  name: New Item
+  name: Company
+- content: https://drive.google.com/file/d/1QLMgCEUddJRon8uIdMxpwIuj7I51a5Df/view?usp=sharing
+  icon: fas fa-link
+  name: Technical Report Link
 - content: This is in a loop
   icon: fas fa-redo
   name: Loop Item
-title: Project Title
+title: Prodoscore Technical Report
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

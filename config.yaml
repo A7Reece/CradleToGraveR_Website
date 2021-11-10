@@ -43,19 +43,19 @@ params:
     preloader: images/preloader.gif
   social:
     - icon: fab fa-facebook-f
-      link: https://www.facebook.com/somratpro
+      link: https://www.facebook.com/adrian.reece.5
     - icon: fab fa-twitter
       link: https://twitter.com/somratpro
     - icon: fab fa-instagram
       link: https://www.instagram.com/somratpro
     - icon: fab fa-github
-      link: https://github.com/somratpro
+      link: https://github.com/A7Reece
     - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/somratpro
+      link: https://www.linkedin.com/in/adrian-reece-44998670/
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) adapted by Adrian Reece
     home: Home
     languageCode: en-us
     languageName: En
@@ -68,7 +68,7 @@ Languages:
           pre: '#'
           url: about
           weight: 2
-        - name: Service
+        - name: Specialties
           pre: '#'
           url: service
           weight: 3
@@ -76,7 +76,7 @@ Languages:
           pre: '#'
           url: portfolio
           weight: 4
-        - name: Testimonial
+        - name: Visualizations
           pre: '#'
           url: testimonial
           weight: 5
